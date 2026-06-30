@@ -130,8 +130,8 @@ Python-Projects/
 **Huzaifa Ansari**
 
 - 🎓 BS Computer Science Student
-- 🤖 Agentic AI Learner
-- 📊 Data Science Enthusiast
+- 🤖 Agentic AI Engineer
+- 📊 Strong Foundation in ML
 - 🐍 Python Developer
 
 ---
