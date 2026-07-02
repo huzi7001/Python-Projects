@@ -6,11 +6,11 @@ This repository contains a mix of **Python scripts** and **Jupyter notebooks** c
 - Variables and data types
 - Loops and conditions
 - Functions
-- random number generation
-- user input handling
-- simple game logic
-- password generation
-- basic project structure
+- Random number generation
+- User input handling
+- Simple game logic
+- Password generation
+- Basic project structure
 
 ---
 
