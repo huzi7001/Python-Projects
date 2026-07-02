@@ -3,9 +3,9 @@
 A collection of beginner-friendly Python projects built for practice, learning, and skill improvement.
 
 This repository contains a mix of **Python scripts** and **Jupyter notebooks** covering core programming concepts such as:
-- variables and data types
-- loops and conditions
-- functions
+- Variables and data types
+- Loops and conditions
+- Functions
 - random number generation
 - user input handling
 - simple game logic
