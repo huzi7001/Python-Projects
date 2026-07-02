@@ -1,4 +1,4 @@
-import random  # Importing random for shuffling questions
+import random  # Importing Random for shuffling questions
 import english_grammar, general_knowledge, mathematics, physics, chemistry, programming  # Importing category modules
 
 # Dictionary to map category names to their respective modules
@@ -90,7 +90,7 @@ def start_quiz():
             print("Correct!\n")
             score += 1
         else:
-            print(f"Wrong! The correct answer was: {q['answer']}\n")
+            print(f"Wrong! The Correct Answer was: {q['answer']}\n")
 
     # Display final score
     print(f"Quiz Over! Your Score: {score}/10")
