@@ -78,7 +78,7 @@ for i,j in menu.items():
 order = []
 amount = []
 while True:
-    o = input("\nEnter item you want or type 'done' to finish: ").capitalize()
+    o = input("\nEnter Item you want or type 'done' to finish: ").capitalize()
 
     if o == "Done":
         break  # Exit the loop
@@ -95,7 +95,7 @@ while True:
             break  # Break out of the outer loop if item is found
 
     if not item_found:
-        print("Item not available. Please try again.") # Display error message if item not found and continue the loop
+        print("Item not Available.\n Please try again.") # Display error message if item not found and continue the loop
 
 # DISPLAY FINAL ORDER  
 print(f"\nYour order is:\n")
