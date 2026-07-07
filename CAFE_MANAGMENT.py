@@ -90,7 +90,7 @@ while True:
                 order.append(f"{k}")
                 amount.append(f"{l}")
                 item_found = True
-                break  # Break out of the inner loop if  item is
+                break  # Break out of the inner loop if  item is found
         if item_found:
             break  # Break out of the outer loop if item is found
 
