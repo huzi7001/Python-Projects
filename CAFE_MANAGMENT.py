@@ -112,7 +112,7 @@ for i in range (len(order)):
     bill_summary.append(f"{order[i]} : Rs.{amount[i]}")
         
 for item in bill_summary:
-    print(f"    {item}")    # print bill summary (items with their prices )
+    print(f"    {item}")    # print bill summary
     
 # TOTAL BILL
 print ("TOTAL BILL:")
