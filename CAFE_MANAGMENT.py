@@ -67,7 +67,7 @@ menu = {"HOT BEVREGES":
         "Crepes (Nutella)": 600,
         "Crepes(Strawberry)": 600}}
 
-# MENU DISPLA
+# MENU DISPLAY
 print ("\nWELCOME TO OUR CAFE!")
 for i,j in menu.items():
     print(f"\n\t{i}")
